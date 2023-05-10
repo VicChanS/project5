@@ -1,0 +1,263 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.body{
+	margin: 0;
+	padding: 0;
+	color: black;
+}
+#box{
+	/* border: 1px solid; */
+	width: 100%;
+	height:auto;
+	background-color: #FFFFFF;
+}
+#top{
+	/* border: 1px solid ; */
+	width: 100%;
+	height: 50px;
+	margin: 0 auto;
+	background-color: #063547;
+	
+}
+.top_con{
+	width: 850px;
+	height: 50px;
+	margin: 0 auto;
+	/* background-color: #9ab69b; */
+}
+#top ul li{
+	/* border: 1px solid; */
+	float: right;
+	line-height: 50px;
+	list-style: none;
+	text-decoration: none;
+	padding-right: 30px;
+	/* border-radius: 15%; */
+}
+#top a{
+	color: white;
+	text-decoration: none;
+	/* background-color: #c8e0c8; */
+}
+#top a:hover{
+	font-size: 16px;
+	/* border: 1px solid; */
+	border-radius: 8px;
+	color: white;
+	
+}
+#banner{
+	/* border: 1px solid; */
+	width: 100%;
+	height:auto;
+	margin: 0 auto;
+}
+
+
+#content{
+	/* border: 1px solid; */
+	width: 900px;
+	height: 670px;
+	margin: 0 auto;
+	/* background-color: #f5f6f9; */
+	/* box-shadow: 0 2px 2px 0 rgb(0 0 0 / 50%); */
+	
+}
+.content1{
+	/* border: 1px solid; */
+	width: 800px;
+	height: 650px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+.content1_1{
+	/* border: 1px solid; */
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 90px;
+	top: 40px;
+}
+.content1 img{
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 0 5px 5px 0 rgb(0 0 0 / 50%);
+}
+.content1_2{
+	/* border: 1px solid; */
+	width: 300px;
+	height: 200px;
+	position: relative;
+	left: 420px;
+	bottom: 160px;
+	
+	
+}
+.content1_3{
+	/* border: 1px solid; */
+	width: 410px;
+	height: 200px;
+	position: relative;
+	left: 90px;
+	bottom: 110px;
+}
+.content1_4{
+	/* border: 1px solid; */
+	width: 200px;
+	height: 200px;
+	position: relative;
+	left: 520px;
+	bottom: 310px;
+}
+#content1_2{
+	/* border: 1px solid; */
+	width: 900px;
+	height: 400px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 10px;
+	/* background-color:  #f5f6f9; */
+}
+#nav{
+	/* border: 1px solid; */
+	width: 100%;
+	height: 410px;
+	background-color:  #f5f6f9;
+}
+#content1_2 span{
+	text-indent: 20px;
+	color: #2E8B57;
+	font-family: "宋体";
+}
+#content1_2 img{
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 0 5px 5px 0 rgb(0 0 0 / 50%);
+}
+.content1_2_1{
+	/* border: 1px solid; */
+	width: 200px;
+	height: 100px;
+	position: relative;
+	left: 60px;
+	top: 40px;
+}
+.content1_2_1 p {
+	font-size: 12px;
+	text-align: center;
+	margin-top: 10px;
+	line-height: 25px;
+	
+	/* position: relative;
+	left: 20px;
+	bottom: 90px; */
+}
+.content1_2_2{
+	/* border: 1px solid; */
+	width: 200px;
+	height: 100px;
+	position: relative;
+	left: 340px;
+	bottom: 60px;
+}
+.content1_2_2 p {
+	margin-top: 10px;
+	line-height: 25px;
+	font-size: 12px;
+	letter-spacing: 2px;
+	text-align: center;
+	/* text-indent: 2em; */
+	/* position: relative;
+	left: 210px;
+	bottom: 100px; */
+}
+.content1_2_3{
+	/* border: 1px solid; */
+	width: 200px;
+	height: 100px;
+	position: relative;
+	left: 610px;
+	bottom: 160px;
+}
+.content1_2_3 p {
+	font-size: 12px;
+	text-align: center;
+	margin-top: 10px;
+	line-height: 25px;
+	/* text-indent: 2em; */
+	/* position: relative;
+	left: 210px;
+	bottom: 100px; */
+}
+#contentes1{
+	/* border: 1px solid; */
+	width: 900px;
+	height: 420px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 10px;
+	/* background-color: #f5f6f9; */
+	
+}
+#contentes1 span{
+	font-size: 16px;
+	font-family: "宋体";
+	color: #2E8B57;
+}
+#contentes1 img{
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 0 5px 5px 0 rgb(0 0 0 / 50%);
+}
+.contentes1{
+	/* border: 1px solid; */
+	width: 200px;
+	height: 300px;
+	position: relative;
+	left: 25px;
+	top: 40px;
+	
+}
+.contentes2{
+	/* border: 1px solid; */
+	width: 200px;
+	height: 300px;
+	position: relative;
+	left: 235px;
+	bottom: 240px;
+	
+}
+.contentes3{
+	/* border: 1px solid; */
+	width: 200px;
+	height: 300px;
+	position: relative;
+	left: 445px;
+	bottom: 565px;
+	
+}
+.contentes4{
+	/* border: 1px solid; */
+	width: 200px;
+	height: 300px;
+	position: relative;
+	left: 655px;
+	bottom: 845px;
+	
+}
+#foot{
+	/* border: 1px solid; */
+	width: 100%;
+	height: 30px;
+	margin: 0 auto;
+	text-align: center;
+	background-color:#063547;
+}
+#foot span{
+	color: white;
+	font-size: 14px;
+	line-height: 30px;
+}
